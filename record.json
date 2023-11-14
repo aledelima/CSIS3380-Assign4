@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "email": "hid0@nih.gov",
+    "username": "id1"
+  },
+  {
+    "id": 2,
+    "email": "eid1@1und1.de",
+    "username": "id2"
+  },
+  {
+    "id": 3,
+    "email": "sid2@google.cn",
+    "username": "id3"
+  },
+  {
+    "id": 4,
+    "email": "jid3@sakura.ne.jp",
+    "username": "id4"
+  },
+  {
+    "id": 5,
+    "email": "wid4@meetup.com",
+    "username": "id5"
+  },
+  {
+    "id": 6,
+    "email": "did5@google.cn",
+    "username": "id6"
+  },
+  {
+    "id": 7,
+    "email": "hid6@exblog.jp",
+    "username": "id7"
+  },
+  {
+    "id": 8,
+    "email": "did7@mapy.cz",
+    "username": "id8"
+  },
+  {
+    "id": 9,
+    "email": "aid8@myspace.com",
+    "username": "id9"
+  },
+  {
+    "id": 10,
+    "email": "bid9@ftc.gov",
+    "username": "id10"
+  }
+]
